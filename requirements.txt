@@ -1,0 +1,40 @@
+# Core
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+torchaudio==2.7.1+cu118
+timm==1.0.17
+einops==0.8.1
+torchinfo==1.8.0
+focal-loss-torch==0.1.2
+torchio
+
+# Data handling & scientific computing
+numpy==2.0.2
+pandas==2.3.1
+scikit-learn==1.6.1
+scipy==1.13.1
+
+# Medical imaging
+nibabel==5.3.2
+simpleitk==2.5.2
+pydicom==2.4.4
+
+# Image I/O
+opencv-python==4.12.0.88
+pillow==11.3.0
+imageio==2.37.0
+tifffile==2024.8.30
+
+# Visualization
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Progress + logging
+tqdm==4.67.1
+wandb==0.21.0
+
+# Misc
+requests==2.32.4
+protobuf==6.31.1
+PyYAML==6.0.2
+typing_extensions==4.14.1
