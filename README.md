@@ -23,10 +23,9 @@ pip install -r requirements.txt
 python main.py \
   --configuration_file "config/config_mil_cross_nii.csv" \
   --project_name "Breast MRI MIL Cross Attention"
-
---configuration_file → Path to one of the CSV configs in config/.
---project_name → Custom name for logging runs in Weights & Biases
-
+configuration_file → Path to one of the CSV configs in config/.
+project_name → Custom name for logging runs in Weights & Biases
+```
 
 ## Contact Us  
 - **Dr. Tri-Thien Nguyen** – [tri-thien.nguyen@fau.de](mailto:tri-thien.nguyen@fau.de) · [Profile](https://lme.tf.fau.de/person/ttnguyen)  
