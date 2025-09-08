@@ -1,5 +1,7 @@
-# 🩺 ODELIA Breast MRI Challenge 2025
+# Robust Breast MRI Classification via Multi-Sequence Attention-Based Multiple Instance Learning and Focal Loss Optimization
 
+
+# 🩺 Code for ODELIA Breast MRI Challenge 2025
 ## Overview  
 The **ODELIA Breast MRI Challenge 2025** benchmarks subject-level classification on a multi-center dataset of unilateral breast MRI in NIfTI format with three labels: **normal, benign, and malignant**. The goal is to advance clinically meaningful AI by tackling class imbalance, temporal contrast dynamics, and multi-sequence integration. Participants build models that ingest pre- and post-contrast sequences (and subtraction) and produce patient-level predictions evaluated on robust metrics. The challenge emphasizes reproducibility and fairness across institutions, encouraging architectures that learn from full 3D volumes without lesion annotations. Results aim to accelerate real-world deployment of reliable screening and diagnostic support systems across heterogeneous clinical settings.
 
